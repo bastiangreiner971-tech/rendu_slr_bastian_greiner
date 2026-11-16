@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jgrapht/lib/jgrapht-core-1.5.2.jar" sourcepath="libs/jgrapht/source/jgrapht-core"/>
+	<classpathentry kind="lib" path="libs/jgrapht/lib/jheaps-0.14.jar"/>
+	<classpathentry kind="lib" path="libs/graph.jar"/>
+	<classpathentry kind="lib" path="libs/canvas-viewer.jar" sourcepath="libs/canvas-viewer.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.1.5/ccd7eb3269b8d33bc097b36770f367cdfe2f1150/jackson-core-3.1.5.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.1.5/782178f0b1fe088803c03b85eb9a406f60519044/jackson-databind-3.1.5.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.21/b1bc1868bf02dc0bd6c7836257a036a331005309/jackson-annotations-2.21.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/4.2.1/6addc9b1f038d2dde0fc6b34464b1061ec5fb4c1/kafka-clients-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/6c62681a2f655b49963a5983b8b0950a6120ae14/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.21.5/84924990b468233a28214ae2c505a9ec24cd6ea6/jackson-databind-2.21.5.jar"/>
+	<classpathentry kind="lib" path="/home/bastiangreiner/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.21.5/7ec0c8bf8402fa998f64b2009632d6566a42ceb7/jackson-core-2.21.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

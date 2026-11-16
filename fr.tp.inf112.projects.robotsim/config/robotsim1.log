@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-10-20T22:42:27.324599962Z</date>
+  <millis>1792536147324</millis>
+  <nanos>599962</nanos>
+  <sequence>0</sequence>
+  <logger>fr.tp.inf112.projects.robotsim.app.SimulatorApplication</logger>
+  <level>INFO</level>
+  <class>fr.tp.inf112.projects.robotsim.app.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Starting the robot simulator...</message>
+</record>
+<record>
+  <date>2026-10-20T22:42:27.374753715Z</date>
+  <millis>1792536147374</millis>
+  <nanos>753715</nanos>
+  <sequence>1</sequence>
+  <logger>fr.tp.inf112.projects.robotsim.app.SimulatorApplication</logger>
+  <level>CONFIG</level>
+  <class>fr.tp.inf112.projects.robotsim.app.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>With parameters [].</message>
+</record>
+<record>
+  <date>2026-10-20T22:42:27.390153629Z</date>
+  <millis>1792536147390</millis>
+  <nanos>153629</nanos>
+  <sequence>2</sequence>
+  <logger>fr.tp.inf112.projects.robotsim.model.Component</logger>
+  <level>INFO</level>
+  <class>fr.tp.inf112.projects.robotsim.model.Component</class>
+  <method>loginfo</method>
+  <thread>1</thread>
+  <message>Initialized lock grid for factory 'Simple Test Puck Factory' with dimensions 40x40</message>
+</record>
+<record>
+  <date>2026-10-20T22:42:27.445913909Z</date>
+  <millis>1792536147445</millis>
+  <nanos>913909</nanos>
+  <sequence>3</sequence>
+  <logger>sun.awt.X11.backingStore.XToolkit</logger>
+  <level>CONFIG</level>
+  <class>sun.awt.X11.XToolkit</class>
+  <method>setBackingStoreType</method>
+  <thread>1</thread>
+  <message>The system property sun.awt.backingStore is not set, by default backingStore=NotUseful</message>
+</record>
+</log>
